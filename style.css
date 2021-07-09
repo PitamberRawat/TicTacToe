@@ -12,6 +12,7 @@
 
 
 body{
+    height: 100vh;
     color: #545454; 
     font-family: sans-serif;
     display: flex;
